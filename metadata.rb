@@ -18,3 +18,6 @@ chef_version '>= 13.0'
 # a Supermarket.
 #
 # source_url 'https://github.com/<insert_org_here>/chefProxy'
+
+
+depends 'nodejs', '~> 5.0.0'
